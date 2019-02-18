@@ -15,3 +15,5 @@ Below are links to the project for the SESSION part of the book
 
 4. https://github.com/dr-matt-smith/php-symfony4-book-codes-sessions-04-colors-css
 
+5. https://github.com/dr-matt-smith/php-symfony4-book-codes-sessions-05-product-crud
+
